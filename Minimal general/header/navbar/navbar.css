@@ -1,0 +1,9 @@
+nav {
+  margin-top: 18px;
+  margin-left: 250px;
+}
+nav .header-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=navbar.css.map */
