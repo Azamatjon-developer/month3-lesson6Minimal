@@ -1,1 +1,60 @@
-/*# sourceMappingURL=footer.css.map */
+.footer {
+  margin-top: 60px;
+}
+.footer .footer-top {
+  background-color: #7EC4BD;
+  padding-top: 59px;
+}
+.footer .footer-top h3 {
+  margin-top: 15px;
+}
+.footer .footer-top .items i {
+  font-size: 32px;
+  color: #fff;
+}
+
+.footer-bottom {
+  background-color: #000;
+  padding-top: 69px;
+  padding-bottom: 75px;
+}
+.footer-bottom p {
+  color: #fff;
+  margin-top: 24px;
+  margin-left: 600px;
+}
+.footer-bottom img {
+  margin-left: 740px;
+}
+.footer-bottom .footer-form {
+  width: 564px;
+  margin: 0 auto;
+  background-color: rgb(75, 62, 62);
+}
+.footer-bottom .footer-form input {
+  width: 564px;
+  height: 57px;
+  background-color: inherit;
+  padding: 18px 31px;
+  outline: none;
+  border: none;
+  color: #fff;
+}
+.footer-bottom .footer-form placeholder {
+  color: #fff;
+}
+.footer-bottom .footer-form textarea {
+  background-color: inherit;
+  border: none;
+  color: #fff;
+  padding: 18px 31px;
+}
+
+.btn {
+  padding: 15px 60px;
+  border: 3px solid #8BCAC3;
+  color: #8BCAC3;
+  margin: 22px auto;
+  margin-left: 650px;
+  background-color: inherit;
+}/*# sourceMappingURL=footer.css.map */

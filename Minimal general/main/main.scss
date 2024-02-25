@@ -1,0 +1,221 @@
+.main-general{
+    width: 100%;
+    background-image: url(../../imgs/rasm.png);
+    height: 391px;
+    background-position:center;
+    background-size: cover;
+    background-color: #F5F5F5;
+
+
+
+    .main-desc{
+        width: 940px;
+        height: 195px;
+        font-weight: 400;
+        color:#fff;
+        text-align: center;
+        padding-top: 98px;
+        padding-left: 330px;
+        .main_text{
+        font-size: 44px;
+        text-transform: uppercase;
+
+
+        }
+        p{
+            font-size: 16px;
+            margin-top: 25px;
+        }
+
+    }
+
+    .main-hr{
+        width: 80px;
+        height: 2px;
+        background-color: #fff;
+        margin-left: 250px;
+        margin-top: 28px;
+    }
+
+}
+.main-info{
+    width: 100%;
+    height: 289px;
+    background-color:#FEFEC9;
+    position: relative;
+    .info-desc{
+        width: 940px;
+        height: 75px;
+        font-weight: 400;
+        font-size: 18px;
+        margin-left: 250px;
+        padding-top: 60px;
+        color:#47474F;
+        text-align: center;
+
+    }
+    .btn{
+        padding: 13px 34px;
+         background-color:#FEFEC9;
+         font-weight: 400;
+         font-size: 16px;
+         text-align: center;
+         position: absolute;
+         left: 43%;
+         top: 50%;
+    }
+}
+
+.main-boxes{
+    width: 940px;
+    height: 487px;
+    margin-top: 69px;
+    margin-left: 250px;
+
+
+    .items{
+        margin-top: 28px;
+        display: flex;
+        justify-content: space-between;
+        align-items:center;
+        
+        .item_list{
+            width: 297px;
+            text-align: center;
+            padding: 10px 15px;
+
+            h3{
+                margin: 28px 0px 28px;
+                text-transform: uppercase;
+                
+            }
+            
+        }
+
+ 
+    }
+
+    .box-target{
+        padding-top: 38px;
+        font-weight: 400;
+        font-size: 16px;
+        color:#333;
+    }
+
+    .box-hr{
+        width: 80px;
+        height: 2px;
+        background-color: #333;
+        margin-top: 28px;
+        margin-left: 420px;
+
+    }
+    .boxes-info{
+        font-weight: 400;
+        font-size: 23px;
+        text-align: center;
+        color:#333;
+        text-transform: uppercase;
+
+        .box-hr{
+            width: 80px;
+            background-color: #333;
+            margin-top: 28px;
+            margin-left: 400px;
+    
+
+        }
+
+    }
+
+}
+
+.main-cards{
+    width: 960px;
+    // height: 403px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 69px;
+    margin-left: 250px;
+
+
+    .cards-all{
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        gap: 20px;
+        margin-top: 40px;
+    }
+
+    .box-hr{
+        width: 80px;
+        height: 2px;
+        background-color: #333;
+        margin-top: 28px;
+        margin-left: 440px;
+    }
+}
+
+.main-team{
+    width: 940px;
+
+    .all-items{
+        display: flex;
+        justify-content: center;
+        align-items:center;
+    }
+    .icons{
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        gap: 20px;
+        margin-top: 18px;
+    }
+}
+
+.mean-coment{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    gap: 10px;
+
+    .coment-left{
+        width: 338px;
+        text-align: center;
+        margin-top: 65px;
+        padding: 0 15px;
+
+        h3{
+            opacity: 0.6;
+        }
+
+        img{
+            margin: 24px 0px 2px;
+        }
+
+    }
+
+    
+    .coment-right{
+        width: 338px;
+        text-align: center;
+        margin-top: 65px;
+        padding: 0 15px;
+
+        h3{
+        opacity: 0.6;
+
+        }
+
+
+        img{
+            margin: 24px 0px 2px;
+        }
+
+    }
+    .coment-all{
+        display: flex;
+
+    }
+}

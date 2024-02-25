@@ -2,10 +2,23 @@
 nav{
     margin-top: 18px;
     margin-left: 250px;
+
+
     .header-logo{
+        width: 940px;
+        height: 70px;
+        display: flex;
+        justify-content: space-between;
+        align-items:center;
+    }
+    .navbar-item{
         display: flex;
         justify-content: center;
         align-items:center;
+        gap: 34px;
+        text-transform: uppercase;
     }
+
+
 }
 

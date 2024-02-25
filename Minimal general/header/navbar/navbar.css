@@ -3,7 +3,16 @@ nav {
   margin-left: 250px;
 }
 nav .header-logo {
+  width: 940px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav .navbar-item {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 34px;
+  text-transform: uppercase;
 }/*# sourceMappingURL=navbar.css.map */
